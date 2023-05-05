@@ -5,6 +5,9 @@
     box-sizing: border-box;
     list-style-type: none;
 }
+/* body{
+    background-color: aliceblue;
+} */
 .container{
     margin-left: 10%;
     margin-right: 10%;
@@ -137,4 +140,7 @@ hr{
 }
 .personal span{
     margin-top: 20px;
+}
+.personal .personalInfo details,h4{
+    padding-top: 10px;
 }
